@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: Eureka-client-Product
+
+server:
+  port: 8001
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://3.19.42.2/eureka
+#  instance:
+#    preferIpAddress: true

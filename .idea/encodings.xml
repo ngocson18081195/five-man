@@ -3,9 +3,12 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fmbaseservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fmdatabase" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fmdiscovert" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fmentity" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fmproduct" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fmsecurity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testHeroku/awseureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testHeroku/fmweb" charset="UTF-8" />
   </component>
 </project>

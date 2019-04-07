@@ -77,8 +77,8 @@
     </dependencies>
 
     <modules>
-        <module>fmdiscovert</module>
         <module>fmentity</module>
+        <module>fmdatabase</module>
         <module>fmbaseservice</module>
         <module>fmsecurity</module>
         <module>fmproduct</module>

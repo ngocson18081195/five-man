@@ -1,7 +1,7 @@
 package fm.security.service;
 
 import base.service.base.BaseService;
-import fm.entity.Product.Product;
+import fm.entity.product.Product;
 import org.springframework.stereotype.Service;
 
 /**

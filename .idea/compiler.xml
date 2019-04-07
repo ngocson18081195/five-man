@@ -6,15 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="baseservice" />
-        <module name="fmdiscovert" />
+        <module name="awseureka" />
+        <module name="fm-baseservice" />
+        <module name="fmdatabase" />
         <module name="fmentity" />
         <module name="fmsecurity" />
+        <module name="fmweb" />
         <module name="product" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="fmbasecommon" target="1.8" />
+      <module name="fmdiscovert" target="1.8" />
       <module name="security" target="1.8" />
     </bytecodeTargetLevel>
   </component>
